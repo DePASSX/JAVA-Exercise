@@ -1,1 +1,1 @@
-# JAVA-Exercise
+# My project's README
